@@ -13,7 +13,7 @@ export const projects = [
         title: "Dynamic Dictionary",
         subtitle: "React, npm packages",
         description:
-          "Developed an dynamic dictionary which gives meanings dynamically as the user types anything and also gives audio pronounciation of the typed words",
+          "Developed a dynamic dictionary which gives meanings dynamically as the user types anything and also gives audio pronounciation of the typed words",
         // image: "./project-1.gif",
         image: "./dict.png",
         link: "https://vidhu007.github.io/React-Dictionary/",
